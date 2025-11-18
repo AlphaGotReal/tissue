@@ -1,0 +1,7 @@
+name: TissuePlugin
+version: 1.0.0
+main: local.paper.TissuePaper
+description: Experimentation
+author: AlphaGotReal
+website: https://github.com/AlphaGotReal
+api-version: '1.21.10'
